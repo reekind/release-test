@@ -8,5 +8,6 @@ class SampleClass
     {
         echo "test";
         echo "tester in dev";
+        echo "test";
     }
 }

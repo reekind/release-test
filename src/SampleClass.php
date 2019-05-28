@@ -7,5 +7,6 @@ class SampleClass
     function tester()
     {
         echo "test";
+        echo "tester in dev";
     }
 }

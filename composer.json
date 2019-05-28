@@ -1,0 +1,12 @@
+{
+    "name": "reekind/release-test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Bensberg",
+            "email": "tim.bensberg@edoc.de"
+        }
+    ],
+    "require": {}
+}
